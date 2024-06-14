@@ -11,3 +11,4 @@ python example_xor.py
 python example_conv.py
 python example_mnist.py
 ```
+merdoso
